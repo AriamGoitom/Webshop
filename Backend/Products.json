@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "name": "Classic Tee",
+      "description": "A classic cotton t-shirt in a regular fit. Perfect for everyday wear.",
+      "price": 19.99,
+      "image": "classic-tee.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Graphic Sweatshirt",
+      "description": "A soft sweatshirt featuring a bold graphic print. Comfortable and stylish.",
+      "price": 49.99,
+      "image": "graphic-sweatshirt.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Denim Jeans",
+      "description": "Premium quality denim jeans with a modern slim fit. A wardrobe essential.",
+      "price": 89.99,
+      "image": "denim-jeans.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Leather Jacket",
+      "description": "Genuine leather jacket with classic biker styling. Timelessly cool.",
+      "price": 199.99,
+      "image": "leather-jacket.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Sneakers",
+      "description": "Comfortable and versatile sneakers with a minimalist design.",
+      "price": 59.99,
+      "image": "sneakers.jpg"
+    }
+  ]
