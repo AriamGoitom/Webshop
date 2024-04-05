@@ -1,3 +1,12 @@
-[
-   
-  ]
+{
+  "id": "1",
+  "namn": "Ariam",
+  "email": "ariam@hotmail.com",
+  "password": "123"
+},
+{
+  "id": "2",
+  "namn": "Ertra",
+  "email": "ertra@hotmail.com",
+  "password" "345"
+}

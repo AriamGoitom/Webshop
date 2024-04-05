@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import './CSS/LoginSignup.css';
 
-const LoginSignup = () => {
+ const LoginSignup = () => {
   const [formData, setFormData] = useState({
     name: '',
     email: '',
@@ -35,14 +35,10 @@ const LoginSignup = () => {
   };
 
 
-
-
-
-
   return (
     <div className='loginsignup'>
       <div className="loginsignup-container">
-        <h1>Sign Up</h1>
+        <h1>Sign up</h1>
         <form className="loginsignup-fields" onSubmit={handleSubmit}>
           <input type="text" name="name" placeholder='Your Name' value={formData.name} onChange={handleChange} />
           <input type="email" name="email" placeholder='Email Address' value={formData.email} onChange={handleChange} />
